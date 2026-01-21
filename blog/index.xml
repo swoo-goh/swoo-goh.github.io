@@ -81,7 +81,7 @@
 &lt;p&gt;저는 그저 데이터를 뜯어보고(Analyze), 쿼리를 다듬고(Refine), 불필요한 설정을 지웠을(Delete) 뿐입니다. 엔지니어링의 정점은 무엇을 더하는 것이 아니라, 불필요한 것을 걷어내는 데 있습니다.&lt;/p&gt;
 &lt;img src="../images/cloud_cost_optimization_7.png" width="100%"&gt;</description></item><item><title>클라우드 예산의 32%가 사라지고 있습니다: 인프라가 아닌 '쿼리'를 수술해야 할 때</title><link>https://swoo-goh.github.io/blog/data_engineering/cloud_cost_optimization/</link><pubDate>Tue, 09 Dec 2025 17:00:00 +0900</pubDate><guid>https://swoo-goh.github.io/blog/data_engineering/cloud_cost_optimization/</guid><description>
 &lt;h4&gt;&amp;ldquo;시스템은 거짓말을 하지 않습니다. 다만 청구서로 비명을 지를 뿐입니다.&amp;rdquo;&lt;span class="hx:absolute hx:-mt-20" id="시스템은-거짓말을-하지-않습니다-다만-청구서로-비명을-지를-뿐입니다"&gt;&lt;/span&gt;
-&lt;a href="#%ec%8b%9c%ec%8a%a4%ed%85%9c%ec%9d%80-%ea%b1%b0%ec%a7%93%eb%a7%90%ec%9d%84-%ed%95%98%ec%a7%80-%ec%95%8a%ec%8a%b5%eb%8b%88%eb%8b%a4-%eb%8b%a4%eb%a7%8c-%ec%b2%ad%ea%b5%ac%ec%84%9c%eb%a1%9c-%eb%b9%84%eb%aa%85%ec%9d%84-%ec%a7%80%eb%a5%bc-%eb%bf%90%ec%9e%85%eb%8b%88%eb%8b%a4" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;img src="../images/cloud_cost_optimization_2.png" width="100%"&gt;
+&lt;a href="#%ec%8b%9c%ec%8a%a4%ed%85%9c%ec%9d%80-%ea%b1%b0%ec%a7%93%eb%a7%90%ec%9d%84-%ed%95%98%ec%a7%80-%ec%95%8a%ec%8a%b5%eb%8b%88%eb%8b%a4-%eb%8b%a4%eb%a7%8c-%ec%b2%ad%ea%b5%ac%ec%84%9c%eb%a1%9c-%eb%b9%84%eb%aa%85%ec%9d%84-%ec%a7%80%eb%a5%bc-%eb%bf%90%ec%9e%85%eb%8b%88%eb%8b%a4" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;img src="../images/top_banner.png" width="100%"&gt;
 &lt;p&gt;클라우드 비용 절감(FinOps)을 논할 때, 대부분의 관리자는 이렇게 외칩니다. &amp;ldquo;주말에 개발 서버 껐어? 스팟 인스턴스(Spot Instance) 적용했어?&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;물론 중요합니다. 하지만 이것은 &lt;strong&gt;수도꼭지 잠그기&lt;/strong&gt;에 불과합니다. 진짜 문제는 수도꼭지가 아니라, 파이프라인 안에서 줄줄 새고 있는 물(Resource) 그 자체에 있습니다.&lt;/p&gt;
 &lt;p&gt;오늘은 인프라 엔지니어가 아닌, 데이터 엔지니어/아키텍트의 관점에서 비용 낭비의 진짜 원인을 진단해 봅니다.&lt;/p&gt;
@@ -151,4 +151,4 @@
 &lt;h4&gt;5. 결론&lt;span class="hx:absolute hx:-mt-20" id="5-결론"&gt;&lt;/span&gt;
 &lt;a href="#5-%ea%b2%b0%eb%a1%a0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;비용 절감은 재무팀의 엑셀 시트에서 이루어지는 것이 아닙니다. 엔지니어의 IDE와 쿼리 창에서 이루어집니다.&lt;/p&gt;
 &lt;p&gt;지금 당신의 클러스터는 일을 하고 있습니까, 아니면 그저 자원을 점유하고 있습니까? 이제 &lt;strong&gt;안전한 낭비&lt;/strong&gt;를 멈추고, &lt;strong&gt;정밀한 수술&lt;/strong&gt;을 시작할 때입니다.&lt;/p&gt;
-&lt;img src="../images/cloud_cost_optimization_7.png" width="100%"&gt;</description></item></channel></rss>
+&lt;img src="../images/bottom_banner.png" width="100%"&gt;</description></item></channel></rss>
